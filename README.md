@@ -11,7 +11,8 @@ To reproduce the experiments, run `ldp_rm.py` and modify the parameters `epsilon
 The datasets currently include **IFTTT (2 items)** and the **MOVIE**, where each row in the dataset represents relations owned by a user.
 ## Citation 
 Please cite our paper as follows:
-'''
+```bibtex
+
 @inproceedings{dong2024relation,
   title={Relation Mining Under Local Differential Privacy},
   author={Dong, Kai and Zhang, Zheng and Jia, Chuang and Ling, Zhen and Yang, Ming and Luo, Junzhou and Fu, Xinwen},
@@ -19,4 +20,4 @@ Please cite our paper as follows:
   pages={955--972},
   year={2024}
 }
-'''
+```
